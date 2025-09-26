@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Code - A simple Python program
+Code - A sophisticated Python program
 
 This is the main entry point for the 'code' project.
 """
